@@ -17,7 +17,9 @@ Education
 ======
 Sep 2021 – Present
 
-**Ph.D. in Integrated Life Sciences (Physics), Peking University, Academy for Advanced Interdisciplinary Studies, w/ Zexian Zeng (Peking University) & Yuan Luo (Northwestern University).**
+**Ph.D. in Integrated Life Sciences (Physics)**
+**Peking University, Academy for Advanced Interdisciplinary Studies**
+**w/ Zexian Zeng (Peking University) & Yuan Luo (Northwestern University).**
 
 Deep generative model, Tumor immunology & Spatial multi-modal integration.
 
@@ -36,7 +38,9 @@ Honors & Awards:
 
 Sep 2017 – Jun 2021
 
-**B.E. in Pharmaceutical Engineering | B.A. in English (Dual Degree), Tianjin University**.
+**B.E. in Pharmaceutical Engineering & B.A. in English (Dual Degree)**
+
+**Tianjin University**.
 
 Computer aided drug design, Protein folding dynamics, Genetic circuit design.
 
