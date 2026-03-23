@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-<span style="font-size: 0.95em; color: #888; display: inline-block; width: 1.2em;">●</span><span style="font-size: 0.95em; color: #666;"> Sep 2021 – Present
+<span style="font-size: 0.95em; color: #888; display: inline-block; width: 2.0em;">●</span><span style="font-size: 0.95em; color: #666;"> Sep 2021 – Present
 
 <p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Ph.D. in Integrated Life Sciences (Physics)</strong></p>
 
