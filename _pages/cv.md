@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+<p>You can download my full CV here:</p>
+
+<p><a href="/files/Curriculum_Vitae.pdf">Download CV</a></p>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Sep 2021 – Present
+Ph.D. in Integrated Life Sciences (Physics), Peking University, Academy for Advanced Interdisciplinary Studies, w/ Zexian Zeng (Peking University) & Yuan Luo (Northwestern University).
+Deep generative model, Tumor immunology & Spatial multi-modal integration.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Honors & Awards:
+•	National Scholarship (2024–2025)
+•	The First Prize of Peking University Scholarship (2021–2022)
+•	Xingye Bank Scholarship (2022–2023)
+•	Pacemaker to Merit Student Award (2021–2022, 2024–2025)
+•	Excellent Research Award (2022–2023)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Sep 2017 – Jun 2021
+B.E. in Pharmaceutical Engineering | B.A. in English (Dual Degree), Tianjin University.
+Computer aided drug design, Protein folding dynamics, Genetic circuit design.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Internship Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Peking University, Academy for Advanced Interdisciplinary Studies                        Jul 2021 – Aug 2021
+•	MPNN-based protein screening and druggable pocket identification based on AlphaFold2 protein structure prediction.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+National Institute of Biological Sciences, Beijing (NIBS)                                 Jul 2019 – Aug 2019
+•	Prediction of protein-small molecule interaction targets using quantum chemistry and MPNN deep learning models.
