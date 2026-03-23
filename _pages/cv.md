@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-<p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2021 – Present</span></p>
+<span style="color: #888;">●</span> Sep 2021 – Present
 
 <p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Ph.D. in Integrated Life Sciences (Physics)</strong></p>
 
@@ -41,7 +41,7 @@ with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</stro
 
 <div style="height: 1px; background-color: #eeeeee; margin: 1.2em 0;"></div>
 
-<p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2017 – Jun 2021</span></p>
+<span style="color: #888;">●</span> Sep 2017 – Jun 2021</span></p>
 
 <p style="margin-top: 0; margin-bottom: 0.2em;"><strong>B.E. in Pharmaceutical Engineering with B.A. in English (Dual Degree)</strong></p>
 
