@@ -31,13 +31,15 @@ with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</stro
 
 <p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Honors &amp; Awards</strong></p>
 
-<ul style="margin-top: 0.2em; margin-bottom: 1em;">
+<ul style="margin-top: 0.2em; margin-bottom: 1.2em;">
   <li><strong>National Scholarship</strong> (2024–2025)</li>
   <li><strong>The First Prize of Peking University Scholarship</strong> (2021–2022)</li>
   <li>Xingye Bank Scholarship (2022–2023)</li>
   <li>Pacemaker to Merit Student Award (2021–2022, 2024–2025)</li>
   <li>Excellent Research Award (2022–2023)</li>
 </ul>
+
+<hr style="margin: 1.2em 0 1.2em 0; border: none; border-top: 1px solid #ddd;">
 
 <p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2017 – Jun 2021</span></p>
 
@@ -48,27 +50,3 @@ with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</stro
 <p style="margin-top: 0; margin-bottom: 1em; font-size: 0.95em;">
 <em>Computer-aided drug design, protein folding dynamics, and genetic circuit design.</em>
 </p>
-
-## Internship Experience
-
-<p style="margin-bottom: 0.2em;">
-<strong>Peking University, Academy for Advanced Interdisciplinary Studies</strong>
-</p>
-<p style="margin-top: 0; margin-bottom: 0.2em;">
-<span style="font-size: 0.95em; color: #666;">Jul 2021 – Aug 2021</span>
-</p>
-
-<ul style="margin-top: 0.2em; margin-bottom: 1em;">
-  <li>MPNN-based protein screening and druggable pocket identification based on AlphaFold2 protein structure prediction.</li>
-</ul>
-
-<p style="margin-bottom: 0.2em;">
-<strong>National Institute of Biological Sciences, Beijing (NIBS)</strong>
-</p>
-<p style="margin-top: 0; margin-bottom: 0.2em;">
-<span style="font-size: 0.95em; color: #666;">Jul 2019 – Aug 2019</span>
-</p>
-
-<ul style="margin-top: 0.2em; margin-bottom: 1em;">
-  <li>Prediction of protein-small molecule interaction targets using quantum chemistry and MPNN deep learning models.</li>
-</ul>
