@@ -13,45 +13,62 @@ redirect_from:
 
 <p><a href="/files/Curriculum_Vitae.pdf">Download CV</a></p>
 
-Education
-======
-Sep 2021 – Present
+## Education
 
-**Ph.D. in Integrated Life Sciences (Physics)**
+<p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2021 – Present</span></p>
 
-**Peking University, Academy for Advanced Interdisciplinary Studies**
+<p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Ph.D. in Integrated Life Sciences (Physics)</strong></p>
 
-**w/ Zexian Zeng (Peking University) & Yuan Luo (Northwestern University).**
+<p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Peking University, Academy for Advanced Interdisciplinary Studies</strong></p>
 
-Deep generative model, Tumor immunology & Spatial multi-modal integration.
+<p style="margin-top: 0; margin-bottom: 0.2em;">
+with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</strong> (Northwestern University)
+</p>
 
-Honors & Awards:
+<p style="margin-top: 0; margin-bottom: 0.6em; font-size: 0.95em;">
+<em>Deep generative modeling, tumor immunology, and spatial multimodal integration.</em>
+</p>
 
-•	**National Scholarship (2024–2025)**
+<p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Honors &amp; Awards</strong></p>
 
-•	**The First Prize of Peking University Scholarship (2021–2022)**
+<ul style="margin-top: 0.2em; margin-bottom: 1em;">
+  <li><strong>National Scholarship</strong> (2024–2025)</li>
+  <li><strong>The First Prize of Peking University Scholarship</strong> (2021–2022)</li>
+  <li>Xingye Bank Scholarship (2022–2023)</li>
+  <li>Pacemaker to Merit Student Award (2021–2022, 2024–2025)</li>
+  <li>Excellent Research Award (2022–2023)</li>
+</ul>
 
-•	Xingye Bank Scholarship (2022–2023)
+<p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2017 – Jun 2021</span></p>
 
+<p style="margin-top: 0; margin-bottom: 0.2em;"><strong>B.E. in Pharmaceutical Engineering with B.A. in English (Dual Degree)</strong></p>
 
-•	Pacemaker to Merit Student Award (2021–2022, 2024–2025)
+<p style="margin-top: 0; margin-bottom: 0.2em;"><strong>Tianjin University</strong></p>
 
-•	Excellent Research Award (2022–2023)
+<p style="margin-top: 0; margin-bottom: 1em; font-size: 0.95em;">
+<em>Computer-aided drug design, protein folding dynamics, and genetic circuit design.</em>
+</p>
 
-Sep 2017 – Jun 2021
+## Internship Experience
 
-**B.E. in Pharmaceutical Engineering with B.A. in English (Dual Degree)**
+<p style="margin-bottom: 0.2em;">
+<strong>Peking University, Academy for Advanced Interdisciplinary Studies</strong>
+</p>
+<p style="margin-top: 0; margin-bottom: 0.2em;">
+<span style="font-size: 0.95em; color: #666;">Jul 2021 – Aug 2021</span>
+</p>
 
-**Tianjin University**.
+<ul style="margin-top: 0.2em; margin-bottom: 1em;">
+  <li>MPNN-based protein screening and druggable pocket identification based on AlphaFold2 protein structure prediction.</li>
+</ul>
 
-Computer aided drug design, Protein folding dynamics, Genetic circuit design.
+<p style="margin-bottom: 0.2em;">
+<strong>National Institute of Biological Sciences, Beijing (NIBS)</strong>
+</p>
+<p style="margin-top: 0; margin-bottom: 0.2em;">
+<span style="font-size: 0.95em; color: #666;">Jul 2019 – Aug 2019</span>
+</p>
 
-Internship Experience
-======
-Peking University, Academy for Advanced Interdisciplinary Studies, Jul 2021 – Aug 2021
-
-•	MPNN-based protein screening and druggable pocket identification based on AlphaFold2 protein structure prediction.
-
-National Institute of Biological Sciences, Beijing (NIBS), Jul 2019 – Aug 2019
-
-•	Prediction of protein-small molecule interaction targets using quantum chemistry and MPNN deep learning models.
+<ul style="margin-top: 0.2em; margin-bottom: 1em;">
+  <li>Prediction of protein-small molecule interaction targets using quantum chemistry and MPNN deep learning models.</li>
+</ul>
