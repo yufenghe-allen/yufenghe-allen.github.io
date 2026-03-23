@@ -41,7 +41,7 @@ with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</stro
 
 <div style="height: 1px; background-color: #eeeeee; margin: 1.2em 0;"></div>
 
-<span style="color: #888;">●</span> Sep 2017 – Jun 2021</span></p>
+<span style="font-size: 0.95em; color: #888; display: inline-block; width: 1.2em;">●</span><span style="font-size: 0.95em; color: #666;"> Sep 2017 – Jun 2021</span></p>
 
 <p style="margin-top: 0; margin-bottom: 0.2em;"><strong>B.E. in Pharmaceutical Engineering with B.A. in English (Dual Degree)</strong></p>
 
