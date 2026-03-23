@@ -39,7 +39,7 @@ with <strong>Zexian Zeng</strong> (Peking University) and <strong>Yuan Luo</stro
   <li>Excellent Research Award (2022–2023)</li>
 </ul>
 
-<hr style="margin: 1.2em 0 1.2em 0; border: none; border-top: 0.2px solid #ddd;">
+<hr style="margin: 1.2em 0 1.2em 0; border: none; border-top: 0.01px solid #ddd;">
 
 <p style="margin-bottom: 0.2em;"><span style="font-size: 0.95em; color: #666;">Sep 2017 – Jun 2021</span></p>
 
